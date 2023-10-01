@@ -1,11 +1,9 @@
 .landingPage{
-    min-width: 100vw;
     max-width: 100vw;
     min-height: 100vh;
     max-height: 100vh;
     background-color: #6effdb;
-background-image: linear-gradient(62deg, #8929af 0%, #8e5ffc 100%);
-
+    background-image: linear-gradient(62deg, #8929af 0%, #8e5ffc 100%);
     color: white;
     display: flex;
     justify-content: space-evenly;

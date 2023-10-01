@@ -3,7 +3,7 @@ import "../css/landing.css";
 import { useEffect, useState } from "react";
 
 const Landing = () => {
-  const sal = "i'm";
+  const sal = "hi, i'm";
   const name = "saurabh yadav";
   const intro = "I am a passionate full-stack developer I am a passionate full-stack developer I am a passionate full-stack developer"
 
